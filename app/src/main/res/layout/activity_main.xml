@@ -68,7 +68,7 @@
             android:id="@+id/edtVideo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="/data/1.avi"
+            android:text="/sdcard/temp/1.avi"
             android:layout_weight="1"/>
 
 
@@ -119,7 +119,7 @@
             android:id="@+id/edtMp3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="/data/1.mp3"
+            android:text="/sdcard/temp/1.mp3"
             android:layout_weight="1"/>
 
         <Button
