@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="title_home">Hello world</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="txtBtnCloseInput">CloseInput</string>
+    <string name="txtReturn">Return</string>
+    <string name="txtStop">Stop</string>
+    <string name="txtMp3">MP3 Player:</string>
+    <string name="txtStopMp3">Stop</string>
+    <string name="txtVideoPlay">Play</string>
+    <string name="txtMp3Play">Play</string>
+</resources>
